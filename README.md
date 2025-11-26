@@ -10,4 +10,5 @@ invoice Output
 <img width="1713" height="741" alt="Screenshot 2025-11-20 232156" src="https://github.com/user-attachments/assets/a1b69613-4684-4643-bd1c-39cdd13a9f9a" />
 <img width="1714" height="862" alt="Screenshot 2025-11-20 232246" src="https://github.com/user-attachments/assets/1dde79a9-17a0-404c-9fd4-b9f714c2c6bc" />
 <img width="1282" height="839" alt="Screenshot 2025-11-20 232314" src="https://github.com/user-attachments/assets/8e59dd94-d769-4eac-b519-3eeb11f3c4bc" />
-Registration number output
+Invoice Replication output
+<img width="1315" height="742" alt="Screenshot 2025-11-26 150355" src="https://github.com/user-attachments/assets/25ceaed2-c999-4a72-9597-d61eae1c40e4" />
